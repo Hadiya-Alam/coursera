@@ -1,13 +1,25 @@
-.blue{
+#pink{
 	text-align: center;
-	color: purple;
+	color:purple;
+	padding:15px;
+	background-image:url("https://www.shutterstock.com/image-vector/seamless-pattern-red-cherry-fruit-260nw-2487689897.jpg");
+	font-style: Italic;
+	border:10px solid white;
 }
 body{
-	background-color:purple; 
+	background-color:pink;
+	
 }
 h1{
+	background-image:url("https://img.freepik.com/free-vector/pink-butterflies-pink-background_306501-888.jpg?semt=ais_hybrid&w=740&q=80");
+	border:7px solid purple;
+	color:black;
+	width:400px;
+}
+#box{
 	background-color: pink;
 }
-ul{
-	color: pink;
+*{
+	box-sizing: border-box;
+	margin:0;
 }
